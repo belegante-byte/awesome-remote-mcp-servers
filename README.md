@@ -943,7 +943,7 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 
 ### 🚆 <a name="travel--transportation"></a>Travel & Transportation
 
-- [Aether-X Port Congestion Oracle](https://aether-x-oracle-production.up.railway.app/docs) `https://aether-x-oracle-production.up.railway.app/mcp`
+- [Aether-X Port Congestion Oracle](https://aether-x-oracle-production.up.railway.app/docs) `https://aether-x-oracle-production.up.railway.app/mcp` — Predictive port congestion, ETA delay and demurrage signals. In the [Official MCP Registry](https://registry.modelcontextprotocol.io) as `io.github.belegante-byte/aetherx-mcp`; also `uvx aetherx-mcp` (PyPI).
   [![Aether-X Port Congestion Oracle MCP connector](https://glama.ai/mcp/connectors/io.github.belegante-byte/aetherx-mcp/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.belegante-byte/aetherx-mcp)
   🔓 - Predictive port congestion, ETA-delay and freight-volatility signals for 15 global ports.
 - [Alice Flights](https://mcp.alice.co.il) `https://mcp.alice.co.il/mcp`
